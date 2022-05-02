@@ -1,16 +1,10 @@
 {
     "files": {
         "README.md": "965012806ad7acf9ad4b81d58537a71e934d362c31becf538251fa5d45c3302b",
-        "index.js": "4ac0d44f5661fc718247c5a9c9399eb91ade264b007676eff3610bba3dd0494f",
-        "module.json": "df54235a322877d003fa9a33d00cc19aaa8fb0808782399179e34d4e191fba8a",
-        "package.json": "b9e2b74cb3dfef6d72d3829b2df3ca9d516c84e40daf22c8d141151c33769396"
-    },
-    "defs": {
-        "C_CANCEL_CONTRACT": 1,
-        "C_PUT_WARE_ITEM": 3,
-        "C_VIEW_WARE": 2,
-        "S_CANCEL_CONTRACT": 1,
-        "S_REQUEST_CONTRACT": [1, 2],
-        "S_VIEW_WARE_EX": 3
+        "blacklist.json": "1864b6b19b455f6ea1999cf922d27d569b85fc6c90b81997e3175e87a652b149",
+        "defs/C_PUT_WARE_ITEM.3.def": "14e81c44e0a046bd803d8b9f6dc45daf53789f209f70ebd949f90651b4f07f51",
+        "defs/S_VIEW_WARE_EX.2.def": "6065ae099533f68e0b31f1a625ee9659f35cf91c5f76e631496756bb24dc1a0b",
+        "index.js": "04f5bd43a4e27d97b2ac826f5a08be0e56fc1767ec1addf9f9382a9e8a78ca08",
+        "module.json": "76d5ab8c57765b1f3e04cc688eaaa16cfa3597c97efe9fd05d045d9ba5d75c4f"
     }
 }
