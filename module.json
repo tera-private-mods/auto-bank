@@ -8,5 +8,6 @@
         "niceName": "AutoBank",
         "guiName": "Auto Bank"
     },
-    "servers": ["https://raw.githubusercontent.com/tera-private-mods/auto-bank/master/"]
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/auto-bank/master/"],
+    "conflicts": ["auto-banker"]
 }
