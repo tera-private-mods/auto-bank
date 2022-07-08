@@ -3,7 +3,6 @@
     "name": "Auto-Bank",
     "author": "Risenio",
     "description": "A script that auto merges inventory items to bank if same item exists in bank/special storage/wardrobe/etc's tab.",
-    "version": "92.03",
     "options": {
         "niceName": "AutoBank",
         "guiName": "Auto Bank"
